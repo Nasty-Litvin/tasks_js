@@ -100,3 +100,17 @@
 // }
 
 // mergeArrays(a, b)
+// Task 
+// function solution(string) {
+//     let stringNew = ''
+//     for (let i=0; i<string.length; i++){
+//         if(string[i].toUpperCase() == string[i]){
+//             stringNew += ` ${string[i]}`
+//         } else {
+//             stringNew += `${string[i]}`
+//         }
+//     }
+//     return stringNew
+// }
+// let res = console.log(solution('gggfQJFFffA'))
+// Task
